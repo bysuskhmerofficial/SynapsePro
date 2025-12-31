@@ -9,7 +9,8 @@
 
 ## 🧠 About
 > **SynapsePro** is for run in roblox use script
-> Can be published on 2026 month 1 can reach month 2 
+
+> There is no release order. 
 
 --- 
 
