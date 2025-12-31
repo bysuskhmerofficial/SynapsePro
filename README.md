@@ -1,10 +1,27 @@
-# SynapsePro | Will come soon. 
+<h1 align="center">⚡ SynapsePro ⚡</h1>
 
-- New UI UX
-- New Design
-- New Script
-- Version English
+<p align="center">
+  <b>Official Project by bysuskhmerofficial</b><br>
+  🚧 Coming Soon 🚧
+</p>
 
-# THIS SCRIPT COPYRIGHT
-## - @BYSUSKHMER
-## - @DERBLUE
+---
+
+## 🧠 About
+> **SynapsePro** is a next-generation script project.  
+> This repository is reserved for future releases.
+
+---
+
+## ✨ Planned Features
+- 🚀 New UI / UX
+- 🎨 Modern Design
+- ⚙️ Optimized Script
+- 🌐 English Version
+
+---
+
+## 📌 Project Status
+```diff
++ Active Development
+- Not Released
