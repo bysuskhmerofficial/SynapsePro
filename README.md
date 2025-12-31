@@ -1,13 +1,13 @@
+![SynapsePro Demo](https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/assets/e66d92a39b553df96f6f3d5a4e65a4d4.gif)
+
+---
+
 <h1 align="center">⚡ SynapsePro ⚡</h1>
 
 <p align="center">
   <b>Official Project by bysuskhmerofficial</b><br>
   🚧 Coming Soon 🚧
 </p>
-
----
-
-![SynapsePro Demo](https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/assets/e66d92a39b553df96f6f3d5a4e65a4d4.gif)
 
 ---
 
