@@ -11,9 +11,7 @@
 > **SynapsePro** is a next-generation script project.  
 > This repository is reserved for future releases.
 
----
-
-## ©️ Copyright 
+--- 
 
 ## ✨ Planned Features
 - 🚀 New UI / UX
@@ -22,6 +20,8 @@
 - 🌐 English Version
 
 ---
+
+## ©️ Copyright
 
 > © 2026 BYSUSKHMEROFFICIAL
 All Rights Reserved.
