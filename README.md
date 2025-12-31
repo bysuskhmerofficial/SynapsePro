@@ -13,6 +13,8 @@
 
 ---
 
+## ©️ Copyright 
+
 ## ✨ Planned Features
 - 🚀 New UI / UX
 - 🎨 Modern Design
