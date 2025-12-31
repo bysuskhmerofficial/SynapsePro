@@ -21,7 +21,12 @@
 
 ---
 
+> © 2026 BYSUSKHMEROFFICIAL
+All Rights Reserved.
+Unauthorized copying, distribution, or use of this project, in part or whole, is strictly prohibited.
+
+---
+
 ## 📌 Project Status
 ```diff
-+ Active Development
 - Not Released
