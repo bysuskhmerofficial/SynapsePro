@@ -5,7 +5,6 @@
 - New Script
 - Version English
 
-
-  'THIS SCRIPT COPYRIGHT'
-  - @BYSUSKHMER
-  - @DERBLUE
+#THIS SCRIPT COPYRIGHT
+##@BYSUSKHMER
+##@DERBLUE
