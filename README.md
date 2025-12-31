@@ -7,6 +7,10 @@
 
 ---
 
+![SynapsePro Demo](https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/assets/e66d92a39b553df96f6f3d5a4e65a4d4.gif)
+
+---
+
 ## 🧠 About
 > **SynapsePro** is for run in roblox use script
 
