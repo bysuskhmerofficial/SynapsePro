@@ -6,16 +6,13 @@
 
 <p align="center">
   <b>Official Project by bysuskhmerofficial</b><br>
-  🚧 Coming Soon 🚧
+  🟢 In progress 🟢
 </p>
 
 ---
 
 ## 🧠 About
 > **SynapsePro** is for run in roblox use script
-
-> There is no release order. 
-
 --- 
 
 ## ✨ Planned Features
@@ -36,4 +33,4 @@ Unauthorized copying, distribution, or use of this project, in part or whole, is
 
 ## 📌 Project Status
 ```diff
-- Not Released
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/res/script/LastVersion.txt"))()
