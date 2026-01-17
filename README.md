@@ -41,3 +41,9 @@ Goal UI/UX គឺ **Easy to use Clean, not dirty. lag game**។
 
 ## 🔐 Security & Protection
 - Script was **obfuscated** To protect source
+
+---
+
+## Script 
+
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/res/script/SynapsePro.lua"))()
