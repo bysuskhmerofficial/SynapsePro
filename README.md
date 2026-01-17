@@ -4,46 +4,46 @@
 
 <p align="center">
   <b>Official Project by bysuskhmerofficial</b><br>
-  🟢 In Progress (Under Development) 🟢
+  🟢 Tested 🟢
 </p>
 
 ---
 
 ## 🧠 About
-**SynapsePro** It is a Roblox utility script that focuses on improving performance, reducing errors, managing the Game API, and enhancing the experience for players.
-
-Project (Not Public Release)
+**SynapsePro** is a Roblox executor used to run scripts and additional tools within Roblox.
 
 ---
 
-## 🎯 Purpose
-- 🚀 Boost FPS & Performance
-- 🧪 Check & Handle Game Errors
-- 🗺️ Map Utilities & Enhancements
-- 🔌 Game API Utilities
+## 🎯 Features
+- 🚀 FPS & Performance Boost
+- 🧪 Speed & Jump Enhancements
+- 🗺️ Graphics Settings
+- 🔌 Game Utility Tools
 - 🎞️ Free Animation Tools
 - 🛠️ Stable & Secure Script Environment
 
 ---
 
 ## 🎨 UI / UX Design
-SynapsePro Designed with a focus on **User Experience** Mainly:
+SynapsePro is designed with a strong focus on **User Experience**, including:
 
 - 🧭 Simple & Clean Interface  
-- ⚡ Fast response, low latency  
-- 🎛️ Easy-to-use controls (no confusion)  
+- ⚡ Fast response with low latency  
+- 🎛️ Easy-to-use controls  
 - 🌓 Optimized layout for long usage  
 - 📱 Scalable UI for different screen sizes  
 
-Goal UI/UX គឺ **Easy to use Clean, not dirty. lag game**។
+UI/UX Goal: **Easy to use, clean design, no lag, no clutter.**
 
 ---
 
-## 🔐 Security & Protection
-- Script was **obfuscated** To protect source
+## 🔐 Key System
+- This script requires a **key**
+- One key is valid for **5 days**
 
 ---
 
-## Script 
+## 📜 Script
 
-- loadstring(game:HttpGet("https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/res/script/SynapsePro.lua"))()
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bysuskhmerofficial/SynapsePro/refs/heads/main/res/script/SynapsePro.lua"))()
