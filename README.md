@@ -46,4 +46,4 @@ UI/UX Goal: **Easy to use, clean design, no lag, no clutter.**
 ## 📜 Script
 
 ```lua
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/417070d9f8986aa6"))()
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/bc06d179d1000889"))()
